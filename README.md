@@ -27,7 +27,7 @@ This is a simple Docker image for installing Packetshare's daily reward auto-cla
 docker pull ghcr.io/xterna/packetshare-pot
 ```
 
-## Overview 🐻
+## Overview 😃
 [**Packetshare-Pot**](https://bit.ly/47NcTVR) 😃💰 is a script (bot) powered by NodeJS and JavaScript to automatically claim the daily reward from [**Packetshare**](https://bit.ly/47NcTVR)😃.
 
 The script bot is designed to run in a docker environment, allowing it to be deployed alongside the Packetshare docker container.
