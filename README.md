@@ -101,7 +101,7 @@ With Packetshare app docker image.
 services:
   packetshare:
     container_name: packetshare
-  image: packetshare/packetshare
+    image: packetshare/packetshare
     restart: always
     environment:
       - EMAIL=$EMAIL
