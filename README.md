@@ -38,7 +38,7 @@ CONTAINER ID   NAME              CPU %     MEM USAGE / LIMIT   MEM %     NET I/O
 0b7bfd54e811   packetshare-pot   0.00%     48.64MiB / 320MiB   15.20%    6.86MB / 250kB   45.7MB / 140MB   12
 ```
 
-> [**Income Generator**](https://github.com/XternA/income-generator) comes pre-configured with this image. A tool which consolidates and earns passive income from multiple sources.
+> [**Income Generator**](https://github.com/XternA/income-generator) comes pre-configured with this image and auto-update. A tool which consolidates and earns passive income from multiple sources.
 
 ## Features 🚀
 - Automatically log in and claim daily reward if threshold reached.
